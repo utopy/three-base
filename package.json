@@ -1,0 +1,23 @@
+{
+  "name": "exercise1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/three": "^0.135.0",
+    "fastnoise-lite": "^0.0.1",
+    "gsap": "^3.9.1",
+    "three": "^0.136.0"
+  },
+  "devDependencies": {
+    "@parcel/transformer-glsl": "^2.0.1",
+    "parcel": "^2.0.1"
+  }
+}
